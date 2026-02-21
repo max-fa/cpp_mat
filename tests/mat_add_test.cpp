@@ -1,3 +1,4 @@
+#include "../types/Matrix.hpp"
 #include "../operations/mat_add.hpp"
 #include <iostream>
 #include <array>
